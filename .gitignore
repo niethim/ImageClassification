@@ -1,0 +1,27 @@
+# Datasets
+oxford-iiit-pet/
+data/
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pt
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Spark
+derby.log
+metastore_db/
+spark-warehouse/
+
+# OS & IDE
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
