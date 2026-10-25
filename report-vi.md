@@ -1,8 +1,6 @@
 # Báo Cáo Đề Tài: Phân Loại Ảnh Quy Mô Lớn Sử Dụng Học Chuyển Tiếp (Transfer Learning) và Triển Khai Phân Tán Trên Apache Spark
 
 **Môn học**: SE363 - Phát triển ứng dụng trên nền tảng dữ liệu lớn
-**Học viên / Sinh viên**: Võ Minh Tiến  
-**Mã số sinh viên (MSSV)**: 24521784
 ---
 
 ## 1. Giới Thiệu & Tổng Quan Kiến Trúc Hệ Thống
